@@ -51,3 +51,9 @@
 <p align="center">
   <i>𓆩♡𓆪 Logic in mind. Precision in code. Ambition beyond limits.</i>
 </p>
+
+<p align="center">
+  <img src="./lavender-dragon.png.jpeg"
+       width="100%"
+       alt="Magical lavender dragon flying through the night sky" />
+</p>
