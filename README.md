@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=C8A2C8&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%8C%99;CSE+Girlie+in+Progress+%F0%9F%8E%80;Future+Engineer+%E2%9C%A8;Quietly+Building+Something+Great." alt="Animated typing header" />
+</p>
 
 <h1 align="center">୨୧ Pooja | CSE Girl in Progress</h1>
 
