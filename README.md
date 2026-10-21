@@ -61,7 +61,7 @@ A simple calculator built to practise Java programming fundamentals and arithmet
 
 ~Java Problem Solving
 
-**03. Calorie Quest** · _In Progress_
+**03. Calorie Quest** · _Completed_
 
 An Android app for tracking food, calories, protein, and daily progress.
 
